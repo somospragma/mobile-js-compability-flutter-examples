@@ -1,0 +1,10 @@
+name: pragma-test
+
+packages:
+  - apps/test-flutter-js
+  - apps/test_flutter_webview
+  - apps/test_run
+
+scripts:
+  analyze:
+    exec: dart analyze .
