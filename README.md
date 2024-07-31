@@ -67,7 +67,7 @@ Puedes descargar el proyecto en el enlace [download](https://github.com/jrestrep
     Se utiliza webview_flutter plugin
     https://pub.dev/packages/webview_flutter/example
 
-    _"No agrega peso al tamaño de la aplicación, pero una vista web significa que hay un navegador completo en la mmoria solo para evaluar el código JavaScript."_
+    _"No agrega peso al tamaño de la aplicación, pero una vista web significa que hay un navegador completo en la memoria solo para evaluar el código JavaScript."_
 
     En la revisión y pruebas es la mejor opción, ya que, simplifica la implementación y es un plugin oficial que se actualiza constantemente.
 
@@ -87,8 +87,8 @@ Puedes descargar el proyecto en el enlace [download](https://github.com/jrestrep
 
   - ## test_flutter_qjs 🚫
     Aplicación con fluttter < 3.0, no recomendada
-    Se debió añadir fvm para realizar pruebas con flutter 2.10.x
-    Se avanzo en el error, pero se presenta incompativilidad con la versión de gradle y no se puede compilar
+    Se necesitó añadir fvm para realizar pruebas con flutter 2.10.x
+    Se avanzó en el error, pero se presenta incompatibilidad con la versión de gradle y no se puede compilar
     
     **[CXX1300] CMake '3.10.2' was not found in SDK, PATH, or by cmake.dir property.**
 
