@@ -43,7 +43,7 @@ Para clonar y ejecutar está aplicación, necesitas [Git](https://git-scm.com) [
 $ git clone https://github.com/jrestrepoPragma/pragma-test-flutter-js
 
 # Go into the repository
-$ cd pragma-test-flutter-js
+$ cd mobile-js-compability-flutter-examples
 
 # Install dependencies
 $ melos bootstrap
@@ -87,7 +87,7 @@ Puedes descargar el proyecto en el enlace [download](https://github.com/jrestrep
 
   - ## test_flutter_qjs 🚫
     Aplicación con fluttter < 3.0, no recomendada
-    Se devio añadir fvm para realizar pruebas con flutter 2.10.x
+    Se debió añadir fvm para realizar pruebas con flutter 2.10.x
     Se avanzo en el error, pero se presenta incompativilidad con la versión de gradle y no se puede compilar
     
     **[CXX1300] CMake '3.10.2' was not found in SDK, PATH, or by cmake.dir property.**
