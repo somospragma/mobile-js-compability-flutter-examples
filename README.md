@@ -40,7 +40,7 @@ Para clonar y ejecutar está aplicación, necesitas [Git](https://git-scm.com) [
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/jrestrepoPragma/pragma-test-flutter-js
+$ git clone https://github.com/jrestrepoPragma/mobile-js-compability-flutter-examples
 
 # Go into the repository
 $ cd mobile-js-compability-flutter-examples
